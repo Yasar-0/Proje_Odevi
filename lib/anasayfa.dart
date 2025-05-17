@@ -9,7 +9,7 @@ class HomePage extends StatefulWidget {
 
 class HomePageState extends State<HomePage> {
   List<String> profileImages = [
-    "images/1.jpg",
+    "images/1.png",
     "images/2.jpg",
     "images/3.jpg",
     "images/4.jpg",
@@ -20,7 +20,7 @@ class HomePageState extends State<HomePage> {
   ];
 
   List<String> posts = [
-    "images/post1.webp",
+    "images/post1.jpg",
     "images/post2.jpg",
   ];
 
